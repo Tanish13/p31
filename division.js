@@ -1,4 +1,4 @@
- division class {
+  class division {
     constructor(x,y,width,height) {
       var options = {
           isStatic: true
